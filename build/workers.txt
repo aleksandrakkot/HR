@@ -1,0 +1,45 @@
+2341
+Natalia
+Zych
+CM-1
+wlasciciel
+5467
+Szymon
+Nowak
+CM-2
+inzynier
+4563
+Weronika
+Kowalska
+CM-1
+programista
+6543
+Michal
+Zajac
+CM-2
+ekonomista
+7654
+Marcin
+Banach
+CM-1
+inzynier
+9834
+Jacek
+Michalik
+Amrest SA
+kierownik
+5387
+Magdalena 
+Jarzabek
+Amrest SA
+inzynier
+9152
+Anna
+Folga
+Amrest SA
+analityk
+3455
+Amelia
+Boczar
+CM-1
+programista
